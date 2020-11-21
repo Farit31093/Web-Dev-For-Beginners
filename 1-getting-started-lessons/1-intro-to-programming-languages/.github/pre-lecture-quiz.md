@@ -2,7 +2,7 @@
 
 1. A program can be created without the creator writing any code
 
-- [ x ] True
+- [ ] True
 - [ ] False
 
 2. Low level languages are a popular choice for:
